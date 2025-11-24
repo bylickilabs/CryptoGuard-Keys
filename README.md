@@ -2,6 +2,7 @@
 |---|
 
 #### 🔐 CryptoGuard Keys — Advanced Key Management & Generation Console (DE/EN)
+     Multilingual
 
 |<img width="1280" height="640" alt="grafik" src="https://github.com/user-attachments/assets/05b02187-67a9-462c-b828-1a08b462f70b" />|
 |---|
