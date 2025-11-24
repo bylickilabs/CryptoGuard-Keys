@@ -4,7 +4,7 @@ import webbrowser
 
 from cryptography.hazmat.primitives.asymmetric import rsa, ec, ed25519, x25519
 from cryptography.hazmat.primitives import serialization
-
+ 
 APP_NAME = "CryptoGuard Keys"
 APP_TITLE = "Advanced Key Management & Generation Console"
 APP_COMPANY = "©Thorsten Bylicki | ©BYLICKILABS"
