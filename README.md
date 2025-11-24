@@ -42,7 +42,7 @@
 
 ```bash
 pip install cryptography
-python CryptoGuard.py
+python app.py
 ```
 
 #### Empfohlen: Virtuelle Umgebung
@@ -51,7 +51,7 @@ python CryptoGuard.py
 python -m venv .venv
 .venv\Scripts\activate
 pip install cryptography
-python CryptoGuard.py
+python app.py
 ```
 
 ---
@@ -120,7 +120,7 @@ GitHub: [https://github.com/bylickilabs/CryptoGuard-Keys](https://github.com/byl
 
 ```bash
 pip install cryptography
-python CryptoGuard.py
+python app.py
 ```
 
 #### Recommended: Virtual environment
@@ -129,7 +129,7 @@ python CryptoGuard.py
 python -m venv .venv
 .venv\Scripts\activate
 pip install cryptography
-python CryptoGuard.py
+python app.py
 ```
 
 ---
