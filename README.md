@@ -1,3 +1,6 @@
+| [![Made with ❤️ by BYLICKILABS](https://img.shields.io/badge/Made%20with%20❤️-BYLICKILABS-ff69b4.svg)](https://github.com/bylickilabs) |
+|---|
+
 #### 🔐 CryptoGuard Keys — Advanced Key Management & Generation Console (DE/EN)
 
 |<img width="1280" height="640" alt="grafik" src="https://github.com/user-attachments/assets/05b02187-67a9-462c-b828-1a08b462f70b" />|
