@@ -3,7 +3,8 @@
 
 
 > **CryptoGuard Keys** ist eine professionelle Desktop-Anwendung zur sicheren Erstellung, Verwaltung und Analyse kryptografischer Schlüsselpaare.  
-Sie wurde von **BYLICKILABS — Intelligence Systems & Communications** entwickelt und richtet sich an Sicherheitsanalysten, Entwickler und Administratoren, die höchste Anforderungen an Datenschutz, Schlüsselmanagement und Integrität stellen.
+  - Sie wurde von **BYLICKILABS — Intelligence Systems & Communications** entwickelt und richtet sich an Sicherheitsanalysten. -
+    - Entwickler und Administratoren, die höchste Anforderungen an Datenschutz, Schlüsselmanagement und Integrität stellen.
 
 ---
 
@@ -80,7 +81,8 @@ GitHub: [https://github.com/bylickilabs/CryptoGuard-Keys](https://github.com/byl
 
 
 > **CryptoGuard Keys** is a professional desktop application for secure generation, management, and analysis of cryptographic key pairs.  
-Developed by **BYLICKILABS — Intelligence Systems & Communications**, it targets security analysts, developers, and administrators requiring high standards in data protection, key management, and operational integrity.
+  - Developed by **BYLICKILABS — Intelligence Systems & Communications**, it targets security analysts, developers.
+    - and administrators requiring high standards in data protection, key management, and operational integrity.
 
 ---
 
